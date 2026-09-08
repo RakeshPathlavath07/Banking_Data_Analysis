@@ -12,7 +12,6 @@ An end-to-end data analytics project analyzing a retail bank dataset (PrimeBank)
 ---
 
 ## 📊 Project Workflow
-![Project Workflow](WorkFlow.jpg)
 
 1. **Database Setup**: Designed relational schema with 10 tables and primary/foreign keys.
 2. **SQL Analysis**: Wrote SQL queries answering 40+ questions across customer trends, branch deposits, loan defaults, and risk.
@@ -76,7 +75,3 @@ Banking_data_analysis/
 └── README.md
 ```
 
----
-
-## 👤 Author
-- **Vivek** — [GitHub Profile](https://github.com/Vivek7ok)
