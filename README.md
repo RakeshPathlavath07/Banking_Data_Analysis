@@ -23,8 +23,6 @@ An end-to-end data analytics project analyzing a retail bank dataset (PrimeBank)
 ## 🗄️ Database Schema
 The dataset consists of 10 related tables: `branches`, `employees`, `customers`, `accounts`, `loans`, `loan_payments`, `cards`, `card_transactions`, `transactions`, and `support_tickets`.
 
-![Database Schema](Sechma/Database_Schema.drawio.png)
-
 ---
 
 ## 💡 Key Insights
@@ -34,22 +32,6 @@ The dataset consists of 10 related tables: `branches`, `employees`, `customers`,
 - **Loans & Default Risk**: About 14,000 active loans with an average interest rate of 11.5%. Default rates are highest in Education and Gold loan categories.
 - **Card Fraud**: Fraudulent card transactions stand at around 0.50% of total card transactions.
 - **Customer Support**: 25,000 support tickets logged with an average customer satisfaction score of 3.0 / 5.
-
----
-
-## 📈 Dashboard Previews
-
-### Power BI Dashboard (8 Pages)
-Interactive dashboard covering executive overview, customer demographics, branch metrics, loan health, card fraud, and risk analysis.
-
-| Executive Overview | Risk & Default Analysis |
-| :---: | :---: |
-| ![Executive Dashboard](Power%20bi/1.png) | ![Risk Analysis](Power%20bi/8.png) |
-
-*(All 8 dashboard page snapshots are available in the [`Power bi/`](Power%20bi/) folder.)*
-
-### Excel Dashboard
-![Excel Dashboard](Excel/Dashbored%20Image.png)
 
 ---
 
